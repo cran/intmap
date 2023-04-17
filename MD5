@@ -1,0 +1,16 @@
+522a33fa1bd9ad69cc2d53fe6b9ca499 *DESCRIPTION
+4d42be1fa26b42584c3cab94fafe895e *NAMESPACE
+07d11a68973da2d39751d8cabb9af299 *NEWS.md
+b844d253e1d4e4c5bf2c11d35c21cbf0 *R/aaa.R
+050ca144aeeee814eae6bada04661d14 *R/imports.R
+1e68d56f8146d73f4442e6f10fee8266 *R/intmap.R
+f012d3c65f7f90671974bd344258d4de *R/is.R
+592770feb6df6588fc946e07220b5370 *R/toString2.R
+48d92a915347c57f29ed3148fbdc269e *README.md
+b7e072df8533e2e2a567798fd085d0c4 *man/intmap-imports.Rd
+12a27ddfdf38efc24d5dcad6e07ede13 *man/intmap.Rd
+4369c26c14305fedb2a9b910eadcf7a9 *src/INTMAP.cpp
+267a63b0bd4e894d7ffdf4bd5f8ec9f6 *src/INTMAP.h
+0394f969d2d63740728b59a38fdef626 *src/RcppExports.cpp
+d55858aef2685deee23d171024c73b9e *src/intmapR.cpp
+5e2d54fb72bb09ed27cce5c8bc50bab0 *src/intmap_types.h
